@@ -1,4 +1,4 @@
-# Program Tugas Akhir RKK304 - Deep learning
+# Program Tugas Akhir RKS309 - Sistem Kontrol Robotika Lanjut
 
 Teknik Robotika dan Kecerdasan Buatan
 Fakultas Teknologi Maju dan Multidisiplin
