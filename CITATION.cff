@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Prayudhana"
+  given-names: "Sulthan Abdillah"
+  orcid: -
+- family-names: "Salamun"
+  given-names: "Ghalih Ahmad"
+  orcid: -
+- family-names: "Qurrata'ain"
+  given-names: "Arfandi"
+  orcid: -
+title: "Otsu-Algorithm-Optimization-GA"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-06-29
+url: "https://github.com/sulthanabdillah/Otsu-Algorithm-Optimization-GA"
